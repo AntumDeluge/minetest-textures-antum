@@ -15,3 +15,5 @@ This is the texture pack for the Antum game for Minetest/Freeminer. For clients,
 
 
 [mod.default]: https://github.com/minetest/minetest_game/tree/master/mods/default
+
+[dev.calinou]: https://github.com/Calinou
