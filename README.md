@@ -5,15 +5,25 @@ This is the texture pack for the Antum game for Minetest/Freeminer. For clients,
 
 ### Texture licenses:
 * CC0
-    * food/fish_cooked.png
-    * food/fish_raw.png
-    * food/meat_cooked.png
-    * food/meat_raw.png
+    * food/
+    	* fish_cooked.png
+    	* fish_raw.png
+    	* meat_cooked.png
+    	* meat_raw.png
 * Based on textures by [Calinou][dev.calinou] from [default][mod.default] mod (CC BY-SA)
-	* glass/green.png
-	* glass/green_detail.png
+	* glass/
+		* green.png
+		* green_detail.png
+* Horse inventory images from [lottmobs][mod.lottmobs] mod ([CC BY-SA][lic.lottmobs])
+	* animal_inventory/
+		* horse_black.png
+		* horse_brown.png
+		* horse_white.png
 
 
 [mod.default]: https://github.com/minetest/minetest_game/tree/master/mods/default
+[mod.lottmobs]: https://github.com/minetest-LOTR/Lord-of-the-Test/tree/master/mods/lottmobs
+
+[lic.lottmobs]: https://github.com/minetest-LOTR/Lord-of-the-Test/blob/master/mods/lottmobs/license.txt
 
 [dev.calinou]: https://github.com/Calinou
