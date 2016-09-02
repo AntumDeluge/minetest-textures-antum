@@ -9,4 +9,9 @@ This is the texture pack for the Antum game for Minetest/Freeminer. For clients,
     * food/fish_raw.png
     * food/meat_cooked.png
     * food/meat_raw.png
+* Based on textures by [Calinou][dev.calinou] from [default][mod.default] mod (CC BY-SA)
+	* glass/green.png
+	* glass/green_detail.png
 
+
+[mod.default]: https://github.com/minetest/minetest_game/tree/master/mods/default
