@@ -3,7 +3,7 @@ This is the texture pack for the Antum game for Minetest/Freeminer. For clients,
 
 ### Anything not listed below is copyright Jordan Irwin, licensed under the MIT license (see LICENSE.txt).
 
-# Texture licenses:
+### Texture licenses:
 * CC0
     * food/fish_cooked.png
     * food/fish_raw.png
