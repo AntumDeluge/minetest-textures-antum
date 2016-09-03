@@ -4,26 +4,30 @@ This is the texture pack for the Antum game for Minetest/Freeminer. For clients,
 ### Anything not listed below is copyright Jordan Irwin, licensed under the MIT license (see LICENSE.txt).
 
 ### Texture licenses:
-* CC0
-    * food/
-    	* fish_cooked.png
-    	* fish_raw.png
-    	* meat_cooked.png
-    	* meat_raw.png
-* Based on textures by [Calinou][dev.calinou] from [default][mod.default] mod (CC BY-SA)
-	* glass/
-		* green.png
-		* green_detail.png
-* Horse inventory images from [lottmobs][mod.lottmobs] mod ([CC BY-SA][lic.lottmobs])
-	* animal_inventory/
-		* horse_black.png
-		* horse_brown.png
-		* horse_white.png
+* egg.png, spawneggs_chicken.png, spawneggs_cow.png, spawneggs_mese_monster.png
+	* [CC0][lic.cc0]
+	* Based on ["white egg" by dStulle][img.egg_white]
+* fish_cooked.png, fish_raw.png
+	* [CC0][lic.cc0]
+* meat_cooked.png, meat_raw.png
+	* [CC0][lic.cc0]
+* spawneggs_oerrki.png
+	* [CC0][lic.cc0]
+	* Based on ["Huevo negro. Black egg" by mediobit][img.egg_black]
+* glass_green.png, glass_green_detail.png
+	* CC BY-SA
+	* Based on textures by [Calinou][dev.calinou] from [default][mod.default] mod
+* horse_black.png, horse_brown.png, horse_white.png
+	* From [lottmobs][mod.lottmobs] mod ([CC BY-SA][lic.lottmobs])
 
 
 [mod.default]: https://github.com/minetest/minetest_game/tree/master/mods/default
 [mod.lottmobs]: https://github.com/minetest-LOTR/Lord-of-the-Test/tree/master/mods/lottmobs
 
+[img.egg_white]: https://openclipart.org/detail/6695/white-egg
+[img.egg_black]: https://openclipart.org/detail/170074/huevo-negro-black-egg
+
+[lic.cc0]: https://creativecommons.org/publicdomain/zero/1.0/
 [lic.lottmobs]: https://github.com/minetest-LOTR/Lord-of-the-Test/blob/master/mods/lottmobs/license.txt
 
 [dev.calinou]: https://github.com/Calinou
