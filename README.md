@@ -14,7 +14,7 @@ This is the texture pack for the Antum game for Minetest/Freeminer. For clients,
 * spawneggs_oerrki.png
 	* [CC0][lic.cc0]
 	* Based on ["Huevo negro. Black egg" by mediobit][img.egg_black]
-* glass_green.png, glass_green_detail.png, glass_red.png, glass_red_detail.png
+* All glass images
 	* CC BY-SA
 	* Based on textures by [Calinou][dev.calinou] from [default][mod.default] mod
 * horse_black.png, horse_brown.png, horse_white.png
