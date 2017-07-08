@@ -1,1 +1,5 @@
-/.project
+## Eclipse project files & directories
+.project
+
+## Helper scripts
+update-textures.sh
